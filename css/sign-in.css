@@ -1,0 +1,16 @@
+
+.login-content input{
+    margin:10px;
+}
+.login-content input[type='checkbox']{
+    width: 15px;
+    margin: 0px;
+    height: 15px;
+    margin-left:155px;
+}
+.login-content button{
+    margin-top:100px;
+}
+.login a{
+    color:white;
+}

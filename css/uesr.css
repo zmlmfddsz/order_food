@@ -1,0 +1,113 @@
+/*背景图开始*/
+.bg4{
+    width:100%;
+    background: url("../image/search_bg.jpg") no-repeat center;
+    background-size:cover ;
+    position: relative;
+    top:59px;
+    border-top:1px solid transparent;
+    border-bottom: 1px solid transparent;
+}
+
+.search_logo19{
+    display: block;
+    height:95px;
+    width:85px;
+    background-position:0 -370px;
+    margin: 70px auto 30px ;
+}
+.girl0{
+    height: 74px;
+    position: absolute;
+    top: 72px;
+    width: 100%;
+}
+.girl{
+    width: 74px;
+    height: 74px;
+    background: url("../image/search.jpg") no-repeat -48px -11px;;
+    border-radius: 40px;
+    margin: auto;
+}
+
+.bg-in{
+    width: 40%;
+    box-sizing: border-box;
+    padding:10px 20px;
+    background: rgb(205,28,100);
+    border-radius: 3px;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.bg-in a{
+    font-size: 16px;
+    color:white;
+}
+/*背景图结束*/
+/*菜单栏开始*/
+
+.user-menu{
+    display: -webkit-box;
+    padding:8%;
+    -webkit-box-pack: justify;
+    box-sizing: border-box;
+    width: 100%;
+}
+.user-menu>div p{
+    margin-top: 5px;
+}
+.m1{
+    position: relative;
+    top:59px;
+}
+.m2{
+    margin:20px 0 70px;
+}
+.user-menu0{
+    width:60px;
+    height: 60px;
+    line-height: 75px;
+    text-align: center;
+    border-radius: 50%;
+
+}
+.user-menu1{
+    background:rgb(186,289,87);
+}
+.user-menu2{
+    background:rgb(251,155,129);
+}
+.user-menu3{
+    background:rgb(129,215,200);
+}
+.user-menu4{
+    background:rgb(87,208,219);
+}
+.user-menu5{
+    background:rgb(214,170,141);
+}
+.user-menu6{
+    background:rgb(129,215,200);
+}
+
+.search_logo17{height:29px;width:24px;background-position:0 -231px;}
+.search_logo16{height:27px;width:29px;background-position:0 -285px;}
+.search_logo18{height:31px;width:33px;background-position:0 -339px;}
+
+.search_logo15{height:24px;width:23px;background-position:0 -207px;}
+.search_logo13{height:25px;width:26px;background-position:0 -260px;}
+.search_logo14{height:27px;width:31px;background-position:0 -312px;}
+/*菜单栏结束*/
+
+
+
+
+
+
+
+
+
+
+
+

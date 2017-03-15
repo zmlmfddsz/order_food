@@ -1,0 +1,148 @@
+body{
+    background: url("../image/bg.jpg");
+}
+
+/*头部开始*/
+.header1{
+    width: 100%;
+    background:rgb(1,126,92);
+    text-align: center;
+    padding:20px 0;
+    font-size: 16px;
+    color:white;
+    position: fixed;
+    z-index: 999;
+}
+
+.header1 a i{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background: url("../image/menu_logo.png") no-repeat 0 0;
+    vertical-align: middle;
+    position:absolute;
+    left:4%
+}
+/*头部结束*/
+
+/*选择栏开始*/
+.menu{
+    position: relative;
+    top:59px;
+    width:100%;
+    display: -webkit-box;
+    background:rgb(238,238,238);
+    text-align: center;
+    box-sizing: border-box;
+    padding:10px 10px;
+}
+.menu1{
+    display: block;
+    -webkit-box-flex: 1;
+    position: relative;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+.menu1 i {
+    width: 9px;
+    height: 9px;
+    display: inline-block;
+    background: url("../image/menu_logo.png") no-repeat 0 -20px;
+    position: absolute;
+    right: 0;
+    bottom: 3px;
+}
+/*选择栏结束*/
+
+
+/*建议栏开始*/
+.ding1{
+    float:right;
+    background:rgb(242,189,71);
+    color:white;
+    padding:0 2px;
+    margin-left: 5px;
+}
+.ding1:after{
+    content:"";
+    display: inline-block;
+    clear: both;
+}
+/*建议栏结束*/
+
+/*城市选择开始*/
+.all{
+    width: 100%;
+    box-sizing: border-box;
+    padding:3.3%;
+    padding-right:0;
+    background: white;
+    position: absolute;
+    top:99px;
+    display: none;
+}
+
+.city-top{
+    width:100%;
+
+}
+.block1{
+    float: left;
+    width:30%;
+    box-sizing: border-box;
+    margin-right:3.3%;
+    margin-bottom:3.3%;
+    border:1px solid gainsboro;
+    text-align: center;
+    padding:5% 0;
+}
+.city-bottom{
+    width: 100%;
+    display: -webkit-box;
+    border-top:1px solid gainsboro;
+    border-bottom:1px solid gainsboro;
+    box-sizing: border-box;
+    margin-right:3.3%;
+    padding:5%;
+}
+.inco4{
+    width: 16px;
+    height: 20px;
+    display: inline-block;
+    background: url("../image/menu_logo.png") no-repeat 0 -41px;
+    margin-right: 1%;
+}
+.inco5{
+    width: 7px;
+    height: 13px;
+    display: inline-block;
+    background: url("../image/menu_logo.png") no-repeat 0 -29px;
+    vertical-align: middle;
+}
+.p1{
+    -webkit-box-flex: 1;
+    margin-left: 2%;
+}
+.a1{
+    display: inline-block;
+}
+/*城市选择结束*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

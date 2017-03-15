@@ -1,0 +1,62 @@
+ table{
+     box-sizing: border-box;
+     width: 100%;
+     padding:10px;
+     border-bottom: 1px solid gainsboro;
+ }
+ table tr th{
+     padding:10px 0;
+     border-bottom: 1px solid gainsboro;
+ }
+ table tr td{
+     text-align: center;
+     padding:15px 0 ;
+     border:1px solid gainsboro;
+ }
+ .seven1{
+     padding:0;
+     position: relative;
+ }
+ .seven1 sub{
+     position:absolute;
+     top: 26px;
+     left: 12%;
+ }
+ .seven{
+     display: inline-block;
+     width:36px;
+     height:36px;
+     border-radius:18px;
+     margin:1px  auto;
+     background:orange;
+     line-height: 36px;
+     color: white;
+     font-size: 15px;
+ }
+
+ .data-bottom{
+     display:-webkit-box;
+ }
+ .data-bottom div:first-child{
+     -webkit-box-flex: 1;
+ }
+ .data-bottom div:last-child{
+     box-sizing: border-box;
+     padding:15px 40px;
+     border-left: 1px solid gainsboro;
+     font-size: 16px;
+     font-weight: bold;
+ }
+
+.top6{
+    width: 100%;
+}
+.top6 input{
+    width: 100%;
+    padding:10px 0 10px 10px;
+    outline: none;
+    box-sizing: border-box;
+    border:none;
+    border-bottom: 1px solid gainsboro;
+
+}

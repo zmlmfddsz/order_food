@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpriteFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" CssFileName="../image" ImageName="img" IsPhone="false" SpriteImgFileType="Png" xmlns="CssSprite">
+  <SpriteList>
+    <Sprite Path="search_logo21.png" LocationX="0" LocationY="0" />
+    <Sprite Path="search_logo5.png" LocationX="0" LocationY="6" />
+    <Sprite Path="search_logo7.png" LocationX="0" LocationY="15" />
+    <Sprite Path="search_logo10.png" LocationX="0" LocationY="31" />
+    <Sprite Path="search_logo3.png" LocationX="0" LocationY="47" />
+    <Sprite Path="search_logo4.png" LocationX="0" LocationY="60" />
+    <Sprite Path="search_logo11.png" LocationX="0" LocationY="72" />
+    <Sprite Path="search_logo8.png" LocationX="0" LocationY="88" />
+    <Sprite Path="search_logo6.png" LocationX="0" LocationY="104" />
+    <Sprite Path="search_logo2.png" LocationX="0" LocationY="120" />
+    <Sprite Path="search_logo12.png" LocationX="0" LocationY="135" />
+    <Sprite Path="search_logo9.png" LocationX="0" LocationY="151" />
+    <Sprite Path="search_logo20.png" LocationX="0" LocationY="167" />
+    <Sprite Path="search_logo1.png" LocationX="0" LocationY="186" />
+    <Sprite Path="search_logo15.png" LocationX="0" LocationY="207" />
+    <Sprite Path="search_logo17.png" LocationX="0" LocationY="231" />
+    <Sprite Path="search_logo13.png" LocationX="0" LocationY="260" />
+    <Sprite Path="search_logo16.png" LocationX="0" LocationY="285" />
+    <Sprite Path="search_logo14.png" LocationX="0" LocationY="312" />
+    <Sprite Path="search_logo18.png" LocationX="0" LocationY="339" />
+    <Sprite Path="search_logo19.png" LocationX="0" LocationY="370" />
+  </SpriteList>
+</SpriteFile>

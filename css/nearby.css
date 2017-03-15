@@ -1,0 +1,80 @@
+/*.img{*/
+    /*display: inline-block;*/
+    /*background:url(../image/img.png) no-repeat ;*/
+/*}*/
+.search_logo1{
+    height:21px;
+    width:21px;
+    background-position:0 -186px;
+    position:absolute;
+    right:4%
+}
+/*.header div{*/
+    /*display: inline-block;*/
+    /*vertical-align: middle;*/
+    /*position:absolute;*/
+    /*right:4%*/
+/*}*/
+
+.header-bottom{
+    width: 100%;
+    position: relative;
+    top:59px;
+    box-sizing: border-box;
+    padding:10px 33%;
+}
+
+.nearby1{
+    width: 48%;
+    float: left;
+    color: white;background: goldenrod;
+    text-align: center;
+    padding:5px 0;
+}
+
+.nearby2{
+    width: 48%;
+    float: right;
+    color:rgb(1,126,92);
+    background: lightgrey;
+    text-align: center;
+    padding:5px 0;
+}
+.search_logo3{
+    height:13px;
+    width:13px;
+    background-position:0 -47px;
+    position:absolute;
+    right:4%;
+    top:3px;
+}
+.search_logo2{
+    height:15px;
+    width:15px;
+    background-position:0 -120px;
+}
+.menu-bottom{
+    top:59px;
+    box-sizing: border-box;
+    /*width: 95%;*/
+    padding:10px;
+    position: relative;
+    border: 1px solid gainsboro;
+    margin: 10px 15px 0;
+    background: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
